@@ -11,12 +11,14 @@ Please get as far as you can with each before looking at answer code.
 - Day 1 (No solutions for these)
     
     | Type | Name | Code |
+       | --- | --- | --- |
     | Git Lab | [Vanilla DOM: Practicing Git](https://fullstack.instructure.com/courses/448/pages/practicing-git-lab?module_item_id=127631) |  |
     | --- | --- | --- |
     | Git Workshop | [Vanilla DOM: Git Workflow](https://fullstack.instructure.com/courses/448/pages/git-workflow-workshop?module_item_id=127632) | [Starter Code](https://github.com/FullstackAcademy/PairExercise.GitWorkflow/blob/main/single-item-page.html) |
 - Day 2
     
     | Type | Name |  |  |  |
+       | --- | --- | --- |
     | CSS Drill Lab | Lab in Canvas | Solution Code |  |  |
     | --- | --- | --- | --- | --- |
     |  Landing Page Liftoff | Workshop Page | Starter Code | Solution Code | Solution Video |
