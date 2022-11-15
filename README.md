@@ -127,7 +127,7 @@ Please get as far as you can with each before looking at answer code.
     
 
 ### Week 1 Checkpoint - The DOM
-[Coffee Clicker](https://github.com/FullstackAcademy/Checkpoint.DOM
+[Coffee Clicker](https://github.com/FullstackAcademy/Checkpoint.DOM) 
 [Solution](https://github.com/FullstackAcademy/Checkpoint.DOM.Solution)
 [Video](https://youtu.be/3EtAyIhudF0)
     
