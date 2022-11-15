@@ -22,10 +22,10 @@ Please get as far as you can with each before looking at answer code.
     |  Landing Page Liftoff | Workshop Page | Starter Code | Solution Code | Solution Video |
 - Day 3
     
-    | Type | Name |  |  |  |
-    | --- | --- | --- | --- | --- |
-    | Assistive Tooling | Lab Page |  |  |
-    | Practical Debugging | Workshop Page | Starter Code |  |
+    | Type | Name |  |  |
+    | --- | --- | --- | --- |
+    | Assistive Tooling | Lab Page |  |
+    | Practical Debugging | Workshop Page | Starter Code |
     | Manipulating the DOM | Lab Page |  | Solution - See Below |
        
 <details>
@@ -109,7 +109,8 @@ Please get as far as you can with each before looking at answer code.
 </details>
         
  - Day 3 Bonus Lab (Optional)
-    | Type | Name |  |  |  |
+
+    | Type | Name |  |  | 
     | --- | --- | --- | --- |
     | Selector Workshop | Canvas Page | Starter Code | Solution Video |
     
@@ -123,7 +124,8 @@ Please get as far as you can with each before looking at answer code.
     | Pixelate | Workshop Page | Starter Code | Solution Code | Solution Videos |
     | Node Basics  | Lab Page |  | Solution Code |  |
     | Node Shell | Workshop Page |  | Solution Code |  |
-- Week 1 Checkpoint
+    
+### Week 1 Checkpoint
     
     DOMCheckpoint ([Coffee Clicker](https://github.com/FullstackAcademy/Checkpoint.DOM)) | [Solution](https://github.com/FullstackAcademy/Checkpoint.DOM.Solution) | [Video](https://youtu.be/3EtAyIhudF0)
     
