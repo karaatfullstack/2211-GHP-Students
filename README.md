@@ -18,15 +18,16 @@ Please get as far as you can with each before looking at answer code.
     
     | Type | Name |  |  |  |
     | --- | --- | --- | --- | --- |
-    | CSS Drill Lab | Lab in Canvas | Solution Code |  |  |
-    |  Landing Page Liftoff | Workshop Page | Starter Code | Solution Code | Solution Video |
+    | CSS Drill Lab | [Lab in Canvas](https://fullstack.instructure.com/courses/448/pages/css-drills-lab?module_item_id=127636) | [Solution Code](https://hackmd.io/@2ctk-Q4uQAmhb4qw1GghPA/BJnXBHsnY#CSS-Newspaper-Solutions) |  |  |
+    |  Landing Page Liftoff | [Workshop Page](https://fullstack.instructure.com/courses/448/pages/landing-page-liftoff-workshop?module_item_id=127637) | [Starter Code](https://github.com/FullstackAcademy/Landing-Page-Launchpad) | [Solution Code](https://github.com/FullstackAcademy/Landing-Page-Launchpad) | [Solution Video](https://www.youtube.com/watch?v=TvTiebmefWY) |
+
 - Day 3
     
     | Type | Name |  |  |
     | --- | --- | --- | --- |
-    | Assistive Tooling | Lab Page |  |
-    | Practical Debugging | Workshop Page | Starter Code |
-    | Manipulating the DOM | Lab Page |  | Solution - See Below |
+    | Assistive Tooling | [Lab Page](https://fullstack.instructure.com/courses/448/modules/items/127641) |  |
+    | Practical Debugging | [Workshop Page](https://fullstack.instructure.com/courses/448/modules/items/127642) | [Starter Code](https://github.com/FullstackAcademy/PairExercise.PracticalDebugging) |
+    | Manipulating the DOM | [Lab Page](https://fullstack.instructure.com/courses/448/modules/items/127646) |  | Solution - See Below |
        
 <details>
 <summary>Manipulating the DOM Lab Walkthrough</summary>
