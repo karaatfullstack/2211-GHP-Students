@@ -27,9 +27,12 @@ Please get as far as you can with each before looking at answer code.
     | --- | --- | --- | --- |
     | Practical Debugging | Workshop Page | Starter Code |  |
     | Manipulating the DOM | Lab Page |  | Solution - See Below |
-    - Manipulating the DOM Lab Walkthrough
-        
-        // To be run in console @ [https://en.wikipedia.org/wiki/Document_Object_Model](https://en.wikipedia.org/wiki/Document_Object_Model)
+       
+       <details>
+<summary>Manipulating the DOM Lab Walkthrough</summary>
+
+```
+  // To be run in console @ [https://en.wikipedia.org/wiki/Document_Object_Model](https://en.wikipedia.org/wiki/Document_Object_Model)
         
         /*
         I use the elements tab to find the main title of the article:
@@ -110,6 +113,8 @@ Please get as far as you can with each before looking at answer code.
         
         // I start my recursive traversal at the top node of the visual page, and let the recursive calls eventually visit every node on the page.
         replaceTextAndLookAtChildren(document.body);
+```
+</details>
         
     
     Day 3 Bonus Lab (Optional)
