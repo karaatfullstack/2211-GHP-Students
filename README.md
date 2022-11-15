@@ -28,10 +28,9 @@ Please get as far as you can with each before looking at answer code.
     | Practical Debugging | Workshop Page | Starter Code |  |
     | Manipulating the DOM | Lab Page |  | Solution - See Below |
        
-       <details>
+<details>
 <summary>Manipulating the DOM Lab Walkthrough</summary>
 
-```
   // To be run in console @ [https://en.wikipedia.org/wiki/Document_Object_Model](https://en.wikipedia.org/wiki/Document_Object_Model)
         
         /*
@@ -79,18 +78,14 @@ Please get as far as you can with each before looking at answer code.
         /*
         Extra challenging!
         
-        ```
         Write a function that will search the DOM tree recursively for all instances of the term "DOM",
         and replace it with the term "KITTEN".
-        
-        ```
         
         - /
         
         // This recursive function will first be called with the body element/node of the page, and recursive visit child nodes.
         const replaceTextAndLookAtChildren = (domNode) => {
-        
-        ```
+
         // While not an element, text nodes on the page are tree nodes that contain the text content of an element.
         // For example: <h1>Hi!</h1> is actually not just one node, but two: the h1, and a childNode with the name "#text" that contains "Hi!"
         // This strategy may be confusing, but is the easiest what I can make sure that I'm only updating text, and not other attributes,
@@ -107,13 +102,10 @@ Please get as far as you can with each before looking at answer code.
             replaceTextAndLookAtChildren(childNode); // ... and recursively call this function, which allows me to traverse the whole tree.
         });
         
-        ```
-        
         };
         
         // I start my recursive traversal at the top node of the visual page, and let the recursive calls eventually visit every node on the page.
         replaceTextAndLookAtChildren(document.body);
-```
 </details>
         
     
