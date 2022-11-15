@@ -113,7 +113,7 @@ Please get as far as you can with each before looking at answer code.
 
     | Type | Name |  |  | 
     | --- | --- | --- | --- |
-    | Selector Workshop | Canvas Page | Starter Code | Solution Video |
+    | Selector Workshop | [Canvas Page](https://fullstack.instructure.com/courses/448/modules/items/127647) | [Starter Code](https://github.com/FullstackAcademy/PairExercise.Selector) | [Solution Video](https://www.youtube.com/watch?v=vUcbywLzQS4) |
     
     
     
@@ -121,10 +121,10 @@ Please get as far as you can with each before looking at answer code.
     
     | Type | Name |  |  |  |
     | --- | --- | --- | --- | --- |
-    | Whack-A-Mole |  Lab Page | Starter Code |  |  |
-    | Pixelate | Workshop Page | Starter Code | Solution Code | Solution Videos |
-    | Node Basics  | Lab Page |  | Solution Code |  |
-    | Node Shell | Workshop Page |  | Solution Code |  |
+    | Whack-A-Mole |  [Lab Page](https://fullstack.instructure.com/courses/448/modules/items/127651) | [Starter Code](https://github.com/FullstackAcademy/Lab.Whack-a-mole) |  |  |
+    | Pixelate | [Workshop Page](https://fullstack.instructure.com/courses/448/modules/items/127652) | [Starter Code](https://github.com/FullstackAcademy/PairExercise.Pixelate) | [Solution Code](https://github.com/FullstackAcademy/PairExercise.Pixelate.Solution) | [Solution Videos](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-) |
+    | Node Basics  | [Lab Page](https://fullstack.instructure.com/courses/448/pages/node-basics-lab?module_item_id=127660) |  | [Solution Code](https://github.com/FullstackAcademy/Solution.NodeBasics) |  |
+    | Node Shell | [Workshop Page](https://fullstack.instructure.com/courses/448/pages/node-shell-workshop?module_item_id=127661) |  | [Solution Code](https://github.com/FullstackAcademy/Solution.NodeShell) |  |
     
 
 ### Week 1 Checkpoint - The DOM
@@ -139,6 +139,6 @@ Please get as far as you can with each before looking at answer code.
     
     | Type | Name |  |  |  |
     | --- | --- | --- | --- | --- |
-    | Express First Contact | Lab Page |  |  |  |
-    | Async Await Lab | Lab Page | Starter Code | Solution Code |  |
-    | Wizard News 1 | Workshop Page | Starter Code | Solution Code | Review / Solution Video |
+    | Express First Contact | [Lab Page](https://fullstack.instructure.com/courses/448/modules/items/127665) |  |  |  |
+    | Async Await Lab | [Lab Page](https://fullstack.instructure.com/courses/448/modules/items/127667) | [Starter Code]()https://github.com/FullstackAcademy/Lab.Async-Await | [Solution Code](https://github.com/FullstackAcademy/Solution.Lab.AsyncAwait) |  |
+    | Wizard News 1 | [Workshop Page](https://fullstack.instructure.com/courses/448/modules/items/127666)| [Starter Code](https://github.com/FullstackAcademy/PairExercise.Wizard-news-pt1) | [Solution Code](https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part1) | [Review / Solution Video](https://www.youtube.com/watch?v=w07G_eMRFZ4&feature=youtu.be) |
