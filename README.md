@@ -13,20 +13,18 @@ Please get as far as you can with each before looking at answer code.
     | Type | Name | Code |
     | --- | --- | --- |
     | Git Lab | [Vanilla DOM: Practicing Git](https://fullstack.instructure.com/courses/448/pages/practicing-git-lab?module_item_id=127631) |  |
-    | --- | --- | --- |
     | Git Workshop | [Vanilla DOM: Git Workflow](https://fullstack.instructure.com/courses/448/pages/git-workflow-workshop?module_item_id=127632) | [Starter Code](https://github.com/FullstackAcademy/PairExercise.GitWorkflow/blob/main/single-item-page.html) |
 - Day 2
     
     | Type | Name |  |  |  |
-    | --- | --- | --- |
-    | CSS Drill Lab | Lab in Canvas | Solution Code |  |  |
     | --- | --- | --- | --- | --- |
+    | CSS Drill Lab | Lab in Canvas | Solution Code |  |  |
     |  Landing Page Liftoff | Workshop Page | Starter Code | Solution Code | Solution Video |
 - Day 3
     
     | Type | Name |  |  |  |
+    | --- | --- | --- | --- | --- |
     | Assistive Tooling | Lab Page |  |  |
-    | --- | --- | --- | --- |
     | Practical Debugging | Workshop Page | Starter Code |  |
     | Manipulating the DOM | Lab Page |  | Solution - See Below |
        
@@ -112,15 +110,16 @@ Please get as far as you can with each before looking at answer code.
         
  - Day 3 Bonus Lab (Optional)
     | Type | Name |  |  |  |
-    | Selector Workshop | Canvas Page | Starter Code | Solution Video |
     | --- | --- | --- | --- |
+    | Selector Workshop | Canvas Page | Starter Code | Solution Video |
+    
     
     
 - Day 4
     
     | Type | Name |  |  |  |
-    | Whack-A-Mole |  Lab Page | Starter Code |  |  |
     | --- | --- | --- | --- | --- |
+    | Whack-A-Mole |  Lab Page | Starter Code |  |  |
     | Pixelate | Workshop Page | Starter Code | Solution Code | Solution Videos |
     | Node Basics  | Lab Page |  | Solution Code |  |
     | Node Shell | Workshop Page |  | Solution Code |  |
@@ -134,7 +133,7 @@ Please get as far as you can with each before looking at answer code.
 - Day 5
     
     | Type | Name |  |  |  |
-    | Express First Contact | Lab Page |  |  |  |
     | --- | --- | --- | --- | --- |
+    | Express First Contact | Lab Page |  |  |  |
     | Async Await Lab | Lab Page | Starter Code | Solution Code |  |
     | Wizard News 1 | Workshop Page | Starter Code | Solution Code | Review / Solution Video |
